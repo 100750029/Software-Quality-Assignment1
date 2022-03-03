@@ -1,4 +1,4 @@
 # Software-Quality-Assignment1
 
-#Daniyal Khan
-#100750029
+# Daniyal Khan
+# 100750029
